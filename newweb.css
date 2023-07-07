@@ -1,0 +1,83 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.part1{
+    background-color:rgb(131, 223, 192);
+    padding: 20px;
+    list-style: none;
+    display: flex;
+    align-items: center; 
+    justify-content: space-around;
+}
+.menus{
+    display: flex;
+    color:black;
+}
+.he{
+    margin: 10px;
+    padding-right: 7px;
+    cursor: pointer;
+}
+.he:hover{
+    color: blue;
+}
+.img{
+    width: 120px;
+}
+.img2{
+    width: 500px;
+}
+.banner{
+    display: flex;
+    justify-content: space-around;
+    height: 100vh;
+    align-items: center;
+    background-image: url("./Logs/green-pastel-watercolor-background-grunge-texture-digital-art-painting_72315-50.avif");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.tittle{
+    font-size: 55px;
+    font-weight: bold;
+}
+.dis{
+    font-size: 18px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+
+}
+.btn{
+    padding: 10px 20px;
+    background-color: darkgrey;
+    color: white;
+    border: none;
+    border-radius: 5px;
+} 
+.about{
+    display: flex;
+    justify-content: space-around;
+    height: 100vh;
+    align-items: center;
+    background-image: url("./Logs/pngtree-sunburst-in-aqua-color-image_557346.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.lm{
+    font-size: 55px;
+    font-weight: bold;
+}
+.text{
+    font-size: 18px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+
+}
+.btn2{
+    padding: 10px 20px;
+    background-color: darkgrey;
+    color: white;
+    border: none;
+    border-radius: 5px;
+
+}
